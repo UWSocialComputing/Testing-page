@@ -109,7 +109,7 @@ end
 You can also add images by linking to a relative path
 
 ```
-![example image](/img/example.jpg)
+![example](/img/example.jpg)
 ```
 ### Code blocks
 
