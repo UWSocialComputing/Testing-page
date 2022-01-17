@@ -6,6 +6,8 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
+The github page template was built by Chad Baldwin (https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
+
 ---
 layout: default
 ---
